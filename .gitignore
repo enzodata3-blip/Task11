@@ -83,3 +83,7 @@ logs/
 *.tmp
 *.bak
 .temp/
+
+# Claude Code local settings (contains credentials)
+.claude/settings.local.json
+.claude/hooks/__pycache__/
